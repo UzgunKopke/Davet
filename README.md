@@ -1,2 +1,2 @@
-# Davet
-Davet Hesaplamalı Invite Botu İyi Eğlenceler 🙂
+# say-supervizor
+Davet Hesaplamalı  V12 Kayıt Botu | say.#1687 
